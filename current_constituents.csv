@@ -1,0 +1,21 @@
+ticker,name,industry,archetype,quality_total_score,moat_total_score,score_generated_at,entry_price,target_weight
+APH,APH,Electronic Connectors,HYBRID,10,7.7,2026-02-01 19:54:44,144.93,5.00%
+MNST,MNST,Bottled & Canned Soft Drinks & Carbonated Waters,CONSUMER_BRAND,9,8.4,2026-02-02 02:04:53,81.1,5.00%
+ADBE,ADBE,Services-Prepackaged Software,CAPITAL_LIGHT,8.9,10,2026-02-01 19:08:14,293.38,5.00%
+BRK-B,BRK-B,Fire, Marine & Casualty Insurance,FINANCIAL,8.6,10,2026-02-01 20:30:53,487.29,5.00%
+CL,CL,Perfumes, Cosmetics & Other Toilet Preparations,CONSUMER_BRAND,8.3,8.4,2026-02-01 21:40:05,91.89,5.00%
+YUM,YUM,Retail-Eating Places,CONSUMER_BRAND,8.3,8,2026-02-02 05:47:42,156.17,5.00%
+CLX,CLX,Specialty Cleaning, Polishing And Sanitation Preparations,CONSUMER_BRAND,8.1,9.4,2026-02-01 21:33:29,113.29,5.00%
+CPRT,CPRT,Retail-Auto Dealers & Gasoline Stations,CONSUMER_BRAND,8,7.9,2026-02-01 21:50:42,39.68,5.00%
+ORLY,ORLY,Retail-Auto & Home Supply Stores,CONSUMER_BRAND,7.9,8,2026-02-02 02:37:05,98.01,5.00%
+MO,MO,Cigarettes,CONSUMER_BRAND,7.8,8.2,2026-02-01 19:30:49,62.23,5.00%
+APP,APP,Services-Computer Programming, Data Processing, Etc.,CAPITAL_LIGHT,7.7,7.9,2026-02-01 20:01:59,483,5.00%
+FAST,FAST,Retail-Building Materials, Hardware, Garden Supply,CONSUMER_BRAND,7.7,8,2026-02-01 23:21:51,44.8,5.00%
+FSLR,FSLR,Semiconductors & Related Devices,INNOVATOR,7.7,9.8,2026-02-01 23:28:59,230.55,5.00%
+NVDA,NVDA,Semiconductors & Related Devices,INNOVATOR,7.7,9.8,2026-02-02 02:34:46,185.61,5.00%
+AZO,AZO,Retail-Auto & Home Supply Stores,CONSUMER_BRAND,7.6,7.9,2026-02-01 20:17:48,3722.41,5.00%
+ANET,ANET,Computer Communications Equipment,HYBRID,7.5,8,2026-02-01 20:09:11,138.37,5.00%
+PGR,PGR,Fire, Marine & Casualty Insurance,FINANCIAL,7.5,10,2026-02-02 03:15:27,203.04,5.00%
+DXCM,DXCM,Surgical & Medical Instruments & Apparatus,INNOVATOR,7.4,7.6,2026-02-01 22:14:45,72.53,5.00%
+ISRG,ISRG,Orthopedic, Prosthetic & Surgical Appliances & Supplies,INNOVATOR,7.4,7.6,2026-02-02 00:40:15,496.73,5.00%
+ROST,ROST,Retail-Family Clothing Stores,CONSUMER_BRAND,7.4,8,2026-02-02 03:51:06,190.11,5.00%
