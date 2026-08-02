@@ -1,0 +1,21 @@
+ticker;name;industry;archetype;quality_total_score;moat_total_score;score_generated_at;entry_price;target_weight
+AAPL;Apple Inc.;Electronic Computers;HYBRID;10;7;2026-08-01 09:43:10;308.91;5.00%
+APH;Amphenol Corporation;Electronic Connectors;HYBRID;10;7.9;2026-08-01 09:34:00;160.7;5.00%
+BSX;Boston Scientific Corporation;Surgical & Medical Instruments & Apparatus;INNOVATOR;10;7;2026-08-01 10:57:08;46.73;5.00%
+DXCM;DexCom, Inc.;Surgical & Medical Instruments & Apparatus;INNOVATOR;10;7.2;2026-08-01 13:34:02;83.45;5.00%
+FSLR;First Solar, Inc.;Semiconductors & Related Devices;INNOVATOR;10;8.1;2026-08-01 15:40:55;211.03;5.00%
+GRMN;Garmin Ltd.;Search, Detection, Navagation, Guidance, Aeronautical Sys;HYBRID;10;7.8;2026-08-01 16:02:15;293.78;5.00%
+PODD;Insulet Corporation;Surgical & Medical Instruments & Apparatus;INNOVATOR;10;7;2026-08-01 17:31:17;165.35;5.00%
+STX;Seagate Technology Holdings plc;Computer Storage Devices;HYBRID;10;8;2026-08-01 23:20:40;856.13;5.00%
+TT;Trane Technologies plc;Auto Controls For Regulating Residential & Comml Environments;HYBRID;10;8;2026-08-02 00:42:25;454.95;5.00%
+VRT;VRT;Electronic Components, NEC;HYBRID;10;8;2026-08-02 01:32:39;241.57;5.00%
+IDXX;IDEXX Laboratories, Inc.;In Vitro & In Vivo Diagnostic Substances;INNOVATOR;9.4;7.7;2026-08-01 17:24:39;559.07;5.00%
+MNST;Monster Beverage Corporation;Bottled & Canned Soft Drinks & Carbonated Waters;CONSUMER_BRAND;8.7;8.5;2026-08-01 20:08:50;96.38;5.00%
+RMD;ResMed Inc.;Surgical & Medical Instruments & Apparatus;INNOVATOR;8.6;8.8;2026-08-01 22:59:13;210.98;5.00%
+PM;Philip Morris International Inc.;Cigarettes;CONSUMER_BRAND;8.5;8.7;2026-08-01 21:39:42;190.82;5.00%
+TPR;Tapestry, Inc.;Leather & Leather Products;CONSUMER_BRAND;8.5;8.2;2026-08-02 00:16:41;152.37;5.00%
+PLTR;Palantir Technologies Inc.;Services-Prepackaged Software;CAPITAL_LIGHT;8.3;8.3;2026-08-01 21:19:20;123.06;5.00%
+YUM;Yum! Brands, Inc.;Retail-Eating Places;CONSUMER_BRAND;8.2;8.2;2026-04-01 19:43:20;153.28;5.00%
+CL;Colgate-Palmolive Company;Perfumes, Cosmetics & Other Toilet Preparations;CONSUMER_BRAND;8.1;7.8;2026-08-01 12:37:49;91.3;5.00%
+MO;Altria Group, Inc.;Cigarettes;CONSUMER_BRAND;8;8.2;2026-08-01 08:53:19;68.33;5.00%
+FAST;Fastenal Company;Retail-Building Materials, Hardware, Garden Supply;CONSUMER_BRAND;7.7;8;2026-08-01 15:28:01;47.71;5.00%
