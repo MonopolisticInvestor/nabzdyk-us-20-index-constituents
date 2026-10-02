@@ -1,0 +1,21 @@
+ticker;name;industry;archetype;quality_total_score;moat_total_score;score_generated_at;entry_price;target_weight
+AAPL;Apple Inc.;Electronic Computers;HYBRID;10;7;2026-10-01 09:47:06;333.69;5.00%
+APH;Amphenol Corporation;Electronic Connectors;HYBRID;10;7.9;2026-10-01 09:37:51;86.96;5.00%
+BSX;Boston Scientific Corporation;Surgical & Medical Instruments & Apparatus;INNOVATOR;10;7.1;2026-10-01 11:08:51;42.6;5.00%
+DXCM;DexCom, Inc.;Surgical & Medical Instruments & Apparatus;INNOVATOR;10;7.2;2026-10-01 13:47:45;85.36;5.00%
+FSLR;First Solar, Inc.;Semiconductors & Related Devices;INNOVATOR;10;8.1;2026-10-01 15:51:17;174.61;5.00%
+GRMN;Garmin Ltd.;Search, Detection, Navagation, Guidance, Aeronautical Sys;HYBRID;10;7.8;2026-10-01 16:12:11;281.16;5.00%
+PODD;Insulet Corporation;Surgical & Medical Instruments & Apparatus;INNOVATOR;10;7.2;2026-10-01 17:40:23;131.69;5.00%
+STX;Seagate Technology Holdings plc;Computer Storage Devices;HYBRID;10;8.9;2026-10-01 23:29:03;848.99;5.00%
+TT;Trane Technologies plc;Auto Controls For Regulating Residential & Comml Environments;HYBRID;10;8;2026-10-02 00:49:48;463.91;5.00%
+VRT;VRT;Electronic Components, NEC;HYBRID;10;8;2026-10-02 01:39:41;252.18;5.00%
+IDXX;IDEXX Laboratories, Inc.;In Vitro & In Vivo Diagnostic Substances;INNOVATOR;9.3;8.3;2026-10-01 17:32:09;518.39;5.00%
+MNST;Monster Beverage Corporation;Bottled & Canned Soft Drinks & Carbonated Waters;CONSUMER_BRAND;8.6;8.4;2026-10-01 20:18:02;42.94;5.00%
+PM;Philip Morris International Inc.;Cigarettes;CONSUMER_BRAND;8.5;8.7;2026-10-01 21:50:31;187.46;5.00%
+PLTR;Palantir Technologies Inc.;Services-Prepackaged Software;CAPITAL_LIGHT;8.4;8.6;2026-10-01 21:31:26;188.75;5.00%
+TPR;Tapestry, Inc.;Leather & Leather Products;CONSUMER_BRAND;8.3;9.2;2026-10-02 00:24:52;118.12;5.00%
+YUM;Yum! Brands, Inc.;Retail-Eating Places;CONSUMER_BRAND;8.2;8.2;2026-04-01 19:43:20;136.12;5.00%
+CL;Colgate-Palmolive Company;Perfumes, Cosmetics & Other Toilet Preparations;CONSUMER_BRAND;8.1;7.8;2026-10-01 12:53:19;84.26;5.00%
+MO;Altria Group, Inc.;Cigarettes;CONSUMER_BRAND;8;8.2;2026-10-01 08:53:08;67.35;5.00%
+RMD;ResMed Inc.;Surgical & Medical Instruments & Apparatus;INNOVATOR;8;8.7;2026-10-01 23:09:14;218.89;5.00%
+WSM;Williams-Sonoma, Inc.;Retail-Home Furniture, Furnishings & Equipment Stores;CONSUMER_BRAND;7.9;9.5;2026-10-02 02:32:18;232.3;5.00%
