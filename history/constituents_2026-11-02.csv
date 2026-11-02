@@ -1,0 +1,21 @@
+ticker;name;industry;archetype;quality_total_score;moat_total_score;score_generated_at;entry_price;target_weight
+AAPL;Apple Inc.;Electronic Computers;HYBRID;10;7;2026-11-01 09:35:58;338.32;5.00%
+APH;Amphenol Corporation;Electronic Connectors;HYBRID;10;8;2026-11-01 09:26:58;79.84;5.00%
+BSX;Boston Scientific Corporation;Surgical & Medical Instruments & Apparatus;INNOVATOR;10;7.1;2026-11-01 10:49:02;44.32;5.00%
+GRMN;Garmin Ltd.;Search, Detection, Navagation, Guidance, Aeronautical Sys;HYBRID;10;8.1;2026-11-01 15:37:22;274.29;5.00%
+KLAC;KLA Corporation;Optical Instruments & Lenses;HYBRID;10;7.2;2026-11-01 18:08:51;153.11;5.00%
+PODD;Insulet Corporation;Surgical & Medical Instruments & Apparatus;INNOVATOR;10;7.2;2026-11-01 17:05:47;153.61;5.00%
+STX;Seagate Technology Holdings plc;Computer Storage Devices;HYBRID;10;9;2026-11-01 22:43:14;593.76;5.00%
+TER;Teradyne, Inc.;Instruments For Meas & Testing Of Electricity & Elec Signals;HYBRID;10;7.6;2026-11-01 23:48:42;261.01;5.00%
+TT;Trane Technologies plc;Auto Controls For Regulating Residential & Comml Environments;HYBRID;10;8;2026-11-02 00:02:54;413.33;5.00%
+VRT;VRT;Electronic Components, NEC;HYBRID;10;8;2026-11-02 00:53:53;224.24;5.00%
+IDXX;IDEXX Laboratories, Inc.;In Vitro & In Vivo Diagnostic Substances;INNOVATOR;9.3;8.3;2026-11-01 16:57:34;671.64;5.00%
+FSLR;First Solar, Inc.;Semiconductors & Related Devices;INNOVATOR;8.7;8.4;2026-11-01 15:16:32;182.05;5.00%
+MNST;Monster Beverage Corporation;Bottled & Canned Soft Drinks & Carbonated Waters;CONSUMER_BRAND;8.6;8.4;2026-11-01 19:32:48;48.02;5.00%
+PM;Philip Morris International Inc.;Cigarettes;CONSUMER_BRAND;8.6;8.7;2026-11-01 21:01:28;208.29;5.00%
+PLTR;Palantir Technologies Inc.;Services-Prepackaged Software;CAPITAL_LIGHT;8.4;8.6;2026-11-01 20:42:31;178.34;5.00%
+TPR;Tapestry, Inc.;Leather & Leather Products;CONSUMER_BRAND;8.3;9.2;2026-11-01 23:38:40;120.76;5.00%
+YUM;Yum! Brands, Inc.;Retail-Eating Places;CONSUMER_BRAND;8.2;8.2;2026-04-01 19:43:20;157.6;5.00%
+CL;Colgate-Palmolive Company;Perfumes, Cosmetics & Other Toilet Preparations;CONSUMER_BRAND;8;7.8;2026-11-01 12:26:08;97.43;5.00%
+MO;Altria Group, Inc.;Cigarettes;CONSUMER_BRAND;8;8.1;2026-11-01 08:48:32;77.17;5.00%
+RMD;ResMed Inc.;Surgical & Medical Instruments & Apparatus;INNOVATOR;8;8.3;2026-11-01 22:19:06;232.94;5.00%
